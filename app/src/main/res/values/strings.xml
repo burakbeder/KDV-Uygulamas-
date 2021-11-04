@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Lesson2</string>
+
+    <string name="hizmet_bedeli">Hizmet Bedeli</string>
+
+    <string name="bahşiş_tutari">Genel Toplam: %s</string>
+
+</resources>
